@@ -430,7 +430,7 @@ public abstract class SettingsPreferenceFragment extends InstrumentedPreferenceF
         return false;
     }
 
-    /*
+    /**
      * The name is intentionally made different from Activity#finish(), so that
      * users won't misunderstand its meaning.
      */
