@@ -40,7 +40,10 @@ class ShowQQsBrightnessSliderPreferenceController(
 
     }
     override fun setChecked(isChecked: Boolean): Boolean {
-        TODO("Not yet implemented")
+        Settings.System.putInt(mContext.contentResolver,
+                               Settings.Secure.QQS_SHOW_BRIGHTNESS_SLIDER,
+                               if (isChecked) 1 else 0)
+        return true
     }
 
 }

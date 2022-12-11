@@ -1364,6 +1364,16 @@
     <string name="auto_brightness_very_high_summary" msgid="2784981315548144255">"Utilizzo elevato della batteria"</string>
     <string name="auto_brightness_disclaimer" msgid="1868395832774087351">"Ottimizza il livello di luminosità per la luce disponibile. Quando questa funzione è attiva, puoi comunque regolare la luminosità temporaneamente."</string>
     <string name="auto_brightness_description" msgid="6807117118142381193">"La luminosità dello schermo verrà regolata automaticamente in base all\'ambiente e alle attività. Puoi spostare manualmente il dispositivo di scorrimento per far sì che la luminosità adattiva memorizzi le tue preferenze."</string>
+    <string name="show_qs_brightness_slider_title">Slider della luminosità</string>
+    <string name="show_qs_brightness_slider_summary">Mostra lo slider della luminosità nelle impostazioni rapide</string>
+    <string name="show_qs_brightness_slider_summary_on">On</string>
+    <string name="show_qs_brightness_slider_summary_off">Off</string>
+    <string name="show_qs_brightness_slider_off_title">Off</string>
+    <string name="show_qqs_brightness_slider_title">Slider della luminosità sempre visibile</string>
+    <string name="show_qqs_brightness_slider_summary">Lo slider della luminosità sarà sempre visibile nelle impostazioni rapide, anche quando non espanse</string>
+    <string name="show_qqs_brightness_slider_summary_on">On</string>
+    <string name="show_qqs_brightness_slider_summary_off">Off</string>
+    <string name="show_qs_brightness_slider_description">Lo slider della luminosità verrà mostrato sopra le impostazioni rapide</string>
     <string name="display_white_balance_title" msgid="2624544323029364713">"Bilanciamento bianco display"</string>
     <string name="display_white_balance_summary" msgid="7625456704950209050"></string>
     <string name="peak_refresh_rate_title" msgid="1878771412897140903">"Display fluido"</string>
@@ -3667,6 +3677,7 @@
     <string name="keywords_face_settings" msgid="1360447094486865058">"volto"</string>
     <string name="keywords_fingerprint_settings" msgid="7345121109302813358">"impronta, aggiungere impronta"</string>
     <string name="keywords_biometric_settings" msgid="2173605297939326549">"volto, impronta, aggiungere un\'impronta"</string>
+    <string name="keywords_show_qs_brightness_slider">slider liminosità, quick settings, slider, luminosità, impostazioni rapide</string>
     <string name="keywords_display_auto_brightness" msgid="7162942396941827998">"attenuazione schermo, touchscreen, batteria, luminosità intelligente, luminosità dinamica, luminosità automatica"</string>
     <string name="keywords_display_adaptive_sleep" msgid="4905300860114643966">"smart, oscurare lo schermo, sospensione, batteria, spegnimento, attenzione, display, schermo, inattività"</string>
     <string name="keywords_auto_rotate" msgid="7288697525101837071">"fotocamera, smart, rotazione automatica, ruotare automaticamente, ruotare, capovolgere, rotazione, verticale, orizzontale, orientamento"</string>
